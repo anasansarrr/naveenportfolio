@@ -107,8 +107,7 @@ const Portfolio = () => {
 
                 </div>
                 {/* Decorative Elements */}
-                <div className="absolute -top-4 -left-4 w-16 h-16 bg-blue-500 rounded-full opacity-20"></div>
-                <div className="absolute -bottom-6 -right-6 w-24 h-24 bg-slate-300 rounded-full opacity-30"></div>
+                
               </div>
             </div>
           </div>
